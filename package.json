@@ -1,0 +1,35 @@
+{
+  "name": "animation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anastasiamelnyk/animation.git"
+  },
+  "author": "Anastasiia Shlapachenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anastasiamelnyk/animation/issues"
+  },
+  "homepage": "https://github.com/anastasiamelnyk/animation#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.7.2",
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-babel-minify": "^0.5.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "postcss-normalize": "^8.0.1"
+  }
+}
